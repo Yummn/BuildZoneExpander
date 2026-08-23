@@ -1,0 +1,23 @@
+<Mod>
+  <Name>Build Zone Expander</Name>
+  <Author>Build Zone Expander Team</Author>
+  <Version>0.1.2</Version>
+  <Description>Enlarges the single-player campaign build box without enabling Free Build or disabling level completion.</Description>
+  <Icon name="icon" />
+  <WorkshopThumbnail name="thumbnail" />
+  <Debug>false</Debug>
+  <MultiplayerCompatible>false</MultiplayerCompatible>
+  <Assemblies>
+    <Assembly path="BuildZoneExpander.dll" />
+  </Assemblies>
+  <Blocks />
+  <Entities />
+  <Triggers />
+  <Events />
+  <Keys />
+  <Resources>
+    <Texture name="icon" path="Icon.png" />
+    <Texture name="thumbnail" path="Thumbnail.png" />
+  </Resources>
+  <ID>96a21c3b-3819-48d8-9a72-b1e7afeed842</ID>
+</Mod>
